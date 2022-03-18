@@ -1,6 +1,6 @@
 
 
-<img src="./Resume.png">
+<img src="/Users/gongqinglong/Documents/my_workspace/resume/Resume.png">
 
 
 ## 如何使用
